@@ -34,8 +34,8 @@
   },
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "glob": "^7.2.0",
-    "tmp": "^0.2.1"
+    "glob": "^11.0.3",
+    "tmp": "^0.2.3"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
